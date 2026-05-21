@@ -3,7 +3,7 @@
 #include <string>
 #include <fstream>
 #include <algorithm>
-#include "Product.h"
+#include "../src/Product.h"
 
 using namespace std;
 

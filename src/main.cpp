@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "Order.h"
+#include "../src/Order.h"
 
 using namespace std;
 
@@ -28,7 +28,8 @@ int main()
 
     while(true)
     {
-        cout<<"\n===== MENU =====\n";
+        cout<<"\n===== Welcome to Silpo =====\n";
+        cout<<"\n=== MENU ===\n";
         cout<<"1 Add product\n";
         cout<<"2 Remove product\n";
         cout<<"3 Change quantity\n";
